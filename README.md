@@ -10,4 +10,4 @@ Is instead of having a fixed mindset, it is having a mindset that is willing to 
 - When it becomes challenginging, we need to ***embrace*** that challenge to overcome it
 - We need to remember that ***no pain ,means no gain***. We need to continue our efforts even if it may seem fruitless.
 
-Reference: [How you can benefit from a growth mindset] (https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
+[Reference] (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
