@@ -1,7 +1,7 @@
 # reading-notes
 My reading journal for Code Fellows 
 
-## Growth Mindset :brain:
+## Growth Mindset 🧠
 
 Is instead of having a fixed mindset, it is having a mindset that is willing to learn new things.
 
