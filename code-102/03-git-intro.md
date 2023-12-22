@@ -1,6 +1,6 @@
 ### Git Intro
 
- #### 1. What is Version Control?
+#### 1. What is Version Control?
 
 * Version control is a system for managing changes to files over time. It's like a timeline for your code, allowing you to:
   * Track every modification made to files
@@ -17,7 +17,7 @@
 
 ```git clone <repository_url>```
 
- #### 3. What is the command to track and stage files?
+#### 3. What is the command to track and stage files?
 
 * Tracking files means telling Git to start monitoring them for changes.
 * Staging files means preparing those changes to be included in a commit.
@@ -29,7 +29,7 @@ git add .                       # Add all modified files to the staging area
 ```
 
 
- #### 4. What is the command to take a snapshot of your changed files?
+#### 4. What is the command to take a snapshot of your changed files?
 
 * Taking a snapshot in Git means creating a commit, which is a saved point in the project's history.
 * The command to create a commit is:
