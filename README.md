@@ -7,6 +7,9 @@ My reading journal for Code Fellows
 
 [02 The Coder's Computer](code-102/02-the-coder's-computer.md)
 
+[03 Git Intro](code-102/03-git-intro.md)
+
+
 
 
 
