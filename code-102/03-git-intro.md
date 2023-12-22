@@ -13,7 +13,7 @@
 
 * Cloning is the process of creating a local copy of a remote Git repository on your computer. It's like downloading a project's entire codebase, including its history of changes.
 
-*The command to clone a repository is:
+* The command to clone a repository is:
 
 ```git clone <repository_url>```
 
