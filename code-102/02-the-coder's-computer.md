@@ -1,6 +1,6 @@
-## Choosing a Text Editor
+# Choosing a Text Editor
 
-**What are four important features to look for in a text editor?**
+## What are four important features to look for in a text editor?**
 
  1. Code completion, speeds up coding by offering suggestions as you type, reducing typos and saving time.
  2. Syntax highlighting, transforms code into a color-coded landscape, instantly revealing errors and boosting readability.
@@ -9,14 +9,17 @@
 
 ## The Command Line
 
-**What do the following commands do?**
+### What do the following commands do?
+
 - **pwd**: Print Working Directory - ie. Where are we currently.
+
 - **ls**: List the contents of a directory.
 - **cd**: Change Directories - ie. move to another directory.
 - **mkdir**: Make directory - ie. creates new directories
 - **touch**: Creates new empty files or updates timestamps of existing files
 
-**Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)**
+### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+
 - This command changes the current working directory to the "projects" directory. It's like "navigating" into that folder within the command line.
 
    ```cd projects```

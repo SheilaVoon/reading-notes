@@ -1,8 +1,9 @@
-## Growth Mindset 🧠
+# Growth Mindset 🧠
 
 Is instead of having a fixed mindset, it is having a mindset that is willing to learn new things.
 
-### Reminders of how to keep a growth mindset
+## Reminders of how to keep a growth mindset
+
 - When faced with obstacles there are so many distractions that can cause us to lose focus, and we need to remember to ***persist***.
 - When it becomes challenginging, we need to ***embrace*** that challenge to overcome it
 - We need to remember that ***no pain ,means no gain***. We need to continue our efforts even if it may seem fruitless.
@@ -11,6 +12,7 @@ Is instead of having a fixed mindset, it is having a mindset that is willing to 
 
 
 ## Learning Markdown
+
 **1. What is Markdown?**
 
 Markdown is a lightweight markup language that allows you to format text documents using simple symbols. It's popular for creating readable and portable text files, such as README files, blog posts, technical documentation, and more.
@@ -28,9 +30,9 @@ Here are some reasons why we use Markdown:
 
 To create a heading, add number signs (#) in front of a word or phrase.
 
-  - How many do you need to create the largest heading? 6
+- How many do you need to create the largest heading? 6
   
-  - How many do you need to create the smallest heading? 1
+- How many do you need to create the smallest heading? 1
     
 **4. When making text bold or italicized for emphasis, it is best practice to use which symbol?**
 
