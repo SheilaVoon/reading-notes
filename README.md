@@ -14,7 +14,7 @@ This is my reading journal for Code Fellows.
 
 [Module 3: Git Intro](code-102/03-git-intro.md)
 
-[Module 4: TBD](code-102/03-git-intro.md)
+[Module 4: Structure web pages with HTML](code-102/04-structure-web-pages-with-html.md)
 
 [Module 5: TBD](code-102/03-git-intro.md)
 
