@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is my reading journal for Code Fellows. 
+This is my reading journal for Code Fellows.
 
 ## Table of Contents
 
