@@ -16,7 +16,7 @@ This is my reading journal for Code Fellows.
 
 [Module 4: Structure web pages with HTML](code-102/04-structure-web-pages-with-html.md)
 
-[Module 5: TBD](code-102/03-git-intro.md)
+[Module 5: Design web pages with CSS](code-102/reading-notes/code-102/05-design-web-pages-with-css.md)
 
 [Module 6: TBD](code-102/03-git-intro.md)
 
