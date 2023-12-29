@@ -18,7 +18,7 @@ This is my reading journal for Code Fellows.
 
 [Module 5: Design web pages with CSS](code-102/05-design-web-pages-with-css.md)
 
-[Module 6: TBD](code-102/03-git-intro.md)
+[Module 6: Dynamic web pages with JavaScript](code-102/06-dynamic-web-pages-with-javascript.md)
 
 [Module 7: TBD](code-102/03-git-intro.md)
 
