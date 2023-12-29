@@ -20,7 +20,7 @@ This is my reading journal for Code Fellows.
 
 [Module 6: Dynamic web pages with JavaScript](code-102/06-dynamic-web-pages-with-javascript.md)
 
-[Module 7: TBD](code-102/03-git-intro.md)
+[Module 7: Programming with JavaScript](code-102/07-programming-with-javascript.md)
 
 [Module 8: TBD](code-102/03-git-intro.md)
 
